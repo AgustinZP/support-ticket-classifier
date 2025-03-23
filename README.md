@@ -12,7 +12,7 @@ short_description: Clasificador de tickets de soporte en español
 ---
 # 🧠 Support Ticket Classifier
 
-Clasificador inteligente de tickets de soporte usando Machine Learning. Esta aplicación permite predecir la categoría de un ticket de soporte a partir del texto proporcionado, facilitando su gestión automática. Ejemplo de modelo NLP (Natural Language Processing)
+Clasificador inteligente de tickets de soporte usando Machine Learning y NLP (Procesamiento del Lenguaje Natural). Esta aplicación permite predecir la categoría de un ticket de soporte a partir del texto proporcionado, facilitando su gestión automática.
 
 ## 🚀 ¿Qué hace esta app?
 
