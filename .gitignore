@@ -17,7 +17,6 @@ __pycache__/
 
 # Archivos de modelos y datasets
 data/
-model/
 
 # Archivos temporales de Jupyter o Streamlit
 .ipynb_checkpoints/
