@@ -30,7 +30,6 @@ Salida esperada:
 ## 🛠️ Tecnologías usadas
 
 - Python 🐍
-- FastAPI ⚡
 - scikit-learn 🤖
 - TfidfVectorizer + MultinomialNB
 - Hugging Face Spaces
@@ -47,17 +46,14 @@ Salida esperada:
 
 `python train.py`
 
-3. Ejecuta la API:
 
-`uvicorn api:app --reload`
-
-4. Accede a la interfaz web en: http://localhost:8000
+3. Accede a la interfaz web en: http://localhost:8000
 
 ## 🌐 Hugging Face Space
 
 Puedes probar la app directamente en Hugging Face:
 
-🔗 huggingface.co/spaces/AgusDev1981/support-ticket-classifier
+🔗 [Pruébalo haciendo clic aqui](huggingface.co/spaces/AgusDev1981/support-ticket-classifier)
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
