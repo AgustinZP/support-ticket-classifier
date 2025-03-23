@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de test
+*.log
+
+# Archivos de modelos y datasets
+data/
+model/
+
+# Archivos temporales de Jupyter o Streamlit
+.ipynb_checkpoints/
+*.streamlit/
+
+# Archivos de configuración locales
+*.env
